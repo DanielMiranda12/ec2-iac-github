@@ -24,7 +24,7 @@ Resources:
         - !Ref ServerSecurityGroupClase
       Tags:
         - Key: Name
-          Value: EC2-Clase-CF-Cambio-Sebastián
+          Value: EC2-Clase-CF-Cambio-Sebastian
         - Key: Proyecto
           Value: Class-CloudFormation
       UserData:
